@@ -1,0 +1,425 @@
+.BackGround{
+  background-image: url("sazaehome.png");
+  background-color: rgba(255, 255, 255, 0.9);
+  background-blend-mode: lighten;
+}
+
+.title > h1{
+  width: 300px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Floor234{
+  display: flex;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Floor2 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per2 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button2{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos2button > p#pos2{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos2button > p#pos2:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg2button > p#neg2{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg2button > p#neg2:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.Floor3 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per3 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button3{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos3button > p#pos3{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos3button > p#pos3:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg3button > p#neg3{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg3button > p#neg3:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.pos3button > h1#pos3{
+  width: 50px;
+  color: red;
+}
+
+.neg3button > h1#neg3{
+  width: 50px;
+  color: blue;
+}
+
+.Floor4 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per4 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button4{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos4button > p#pos4{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos4button > p#pos4:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg4button > p#neg4{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg4button > p#neg4:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.pos4button > h1#pos4{
+  width: 50px;
+  color: red;
+}
+
+.neg4button > h1#neg4{
+  width: 50px;
+  color: blue;
+}
+
+.Floor567{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  display: flex;
+}
+
+.Floor5 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per5 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button5{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos5button > p#pos5{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos5button > p#pos5:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg5button > p#neg5{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg5button > p#neg5:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.pos5button > h1#pos5{
+  width: 50px;
+  color: red;
+}
+
+.neg5button > h1#neg5{
+  width: 50px;
+  color: blue;
+}
+
+.Floor6 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per6 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button6{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos6button > p#pos6{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos6button > p#pos6:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg6button > p#neg6{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg6button > p#neg6:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.pos6button > h1#pos6{
+  width: 50px;
+  color: red;
+}
+
+.neg6button > h1#neg6{
+  width: 50px;
+  color: blue;
+}
+
+.Floor7 > h1{
+  font-size: 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.per7 > h1{
+  font-size: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button7{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pos7button > p#pos7{
+  width: 60px;
+  background-color: #ec8b8b;
+  box-shadow: 0px 3px red;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+}
+
+.pos7button > p#pos7:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.neg7button > p#neg7{
+  width: 60px;
+  background-color: #1e90ff;
+  box-shadow: 0px 3px #000080;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+
+.neg7button > p#neg7:active {
+  box-shadow: none;
+  position: relative;
+  top: 3px;
+}
+
+.pos7button > h1#pos7{
+  width: 50px;
+  color: red;
+}
+
+.neg7button > h1#neg7{
+  width: 50px;
+  color: blue;
+}
